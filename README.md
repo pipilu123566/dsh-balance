@@ -1,5 +1,7 @@
 # DSH Balance
 
+**Source moved:** ongoing development and issue reports are now maintained in [deepseek-harness-plugin/dsh-balance](https://github.com/pipilu123566/deepseek-harness-plugin/tree/main/dsh-balance). This repository retains the published 1.0.0 release, checksums and fixed-version references; future source changes belong to the collection repository.
+
 [中文](README.zh-CN.md) · [Releases](https://github.com/pipilu123566/dsh-balance/releases) · [Report a problem](https://github.com/pipilu123566/dsh-balance/issues)
 
 See the balances of your configured providers from the sidebar, without leaving DeepSeek Harness.
