@@ -2,7 +2,7 @@
 
 **源码已迁移：** 后续开发和问题反馈统一在 [deepseek-harness-plugin/dsh-balance](https://github.com/pipilu123566/deepseek-harness-plugin/tree/main/dsh-balance) 维护。本仓库继续保留已发布的 1.0.0 安装包、校验值和固定版本资料，后续源码改动请使用新目录。
 
-[English](README.md) · [下载版本](https://github.com/pipilu123566/dsh-balance/releases) · [问题反馈](https://github.com/pipilu123566/dsh-balance/issues)
+[English](README.md) · [下载版本](https://github.com/pipilu123566/dsh-balance/releases) · [问题反馈](https://github.com/pipilu123566/deepseek-harness-plugin/issues)
 
 在 DeepSeek Harness 侧栏集中查看已配置厂商的账户余额。
 
